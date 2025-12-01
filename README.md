@@ -28,7 +28,7 @@ under [tutorials](tutorials) there are three jupyter notebooks giving examples o
 3. [experimental_data](tutorials/experimental_data.ipynb) gives an example of applying the GRN inference algorithms to experimental CRISPR screen data, where first pre-processing and annotation is carried out. The used dataset, which is already highly filtered, can be replaced with other experimental datasets, where then care has to be taken with precprocessing and feature selection.
 
 ## 2. Documentation:
-For Documentation of the usage of all the included functions see: [documentation - docs/build/html/index.html](docs/build/html/scp_infer.html)
+For Documentation of the usage of all the included functions see: [scp-infer.readthedocs.io]([docs/build/html/scp_infer.html](https://scp-infer.readthedocs.io/en/latest/modules.html))
 
 [comment]: <> (https://html-preview.github.io/?url=https://github.com/jan-spr/scp_infer/blob/main/sphinx_doc/build/html/scp_infer.html)
 
