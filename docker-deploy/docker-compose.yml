@@ -1,0 +1,9 @@
+version: '3.9'
+services:
+  scp_infer_test_2:
+    build: .
+    environment:
+      - TZ=America/New_York
+      - DEBIAN_FRONTEND=noninteractive
+    volumes:
+      - ./test:/home/scp_infer_test/

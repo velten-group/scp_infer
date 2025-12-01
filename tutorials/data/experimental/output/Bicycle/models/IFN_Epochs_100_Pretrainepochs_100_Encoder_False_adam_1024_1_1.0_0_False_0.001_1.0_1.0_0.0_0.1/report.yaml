@@ -1,0 +1,7 @@
+early_stopping: false
+early_stopping_min_delta: null
+early_stopping_p_mode: null
+early_stopping_patience: null
+finished: true
+n_epochs: 100
+n_steps: 100

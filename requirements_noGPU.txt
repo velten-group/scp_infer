@@ -1,0 +1,29 @@
+#General
+# in python=3.11.8
+numpy==1.26.4
+scanpy==1.11.2
+cdt==0.5.18
+networkx==3.5
+decoupler==2.0.6
+ipykernel
+notebook
+#pyarrow>=14.0.1 or pyarrow==10.0.1 ?
+
+#pytorch
+# decide on CUDA version (11.8?, default is 12.1)
+# torch==2.0.1
+# torchvision
+# torchaudio
+
+#GRNBoost2
+dask==2023.11.0
+arboreto==0.1.6
+#GIES
+gies==0.0.3
+#Bicycle
+# pytorch-lightning==2.0.9
+# ipywidgets
+# rich==13.5.3
+#AVICI
+# jax>=0.3.17
+# avici==1.0.7

@@ -1,0 +1,29 @@
+#General
+# in python=3.11.8
+numpy==1.26.4
+scanpy==1.11.2
+cdt==0.5.18
+networkx
+decoupler==2.0.6
+ipykernel
+jupyter
+#pyarrow>=14.0.1 or pyarrow==10.0.1 ?
+
+#pytorch
+# decide on CUDA version (11.8?, default is 12.1)
+torch==2.0.1
+torchvision
+torchaudio
+
+#GRNBoost2
+dask==2024.4.1  # when using pyhton newer than 3.11.8, use a newer version like 2024.4.1, otherwise with e.g. python 3.11.8 use 2023.11.0
+arboreto==0.1.6
+#GIES
+gies==0.0.3
+#Bicycle
+pytorch-lightning==2.0.9
+ipywidgets
+rich==13.5.3
+#AVICI
+jax>=0.3.17
+avici==1.0.7
