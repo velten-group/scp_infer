@@ -21,6 +21,6 @@ sphinx:
 # See https://docs.readthedocs.io/en/stable/guides/reproducible-builds.html
 python:
    install:
-   - requirements: requirements_noGPU.txt
+   - requirements: docs/source/requirements_sphinx.txt
         
 
